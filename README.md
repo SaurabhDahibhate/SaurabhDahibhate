@@ -3,7 +3,7 @@
 <h3 align="center">A passionate DevOps Cloud Engineer from India</h3>
 
 
-I am [Saurabh](https://in.linkedin.com/in/saurabh-dahibhate-805b20147), a Computer Engineer (B.E) from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;passionate about devOps. 🎯
+I am [Saurabh](https://in.linkedin.com/in/saurabh-dahibhate), a Computer Engineer (B.E) from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;passionate about devOps. 🎯
 
 - 🔭 I’m currently working on **DevOps Cloud Engineer**
 
