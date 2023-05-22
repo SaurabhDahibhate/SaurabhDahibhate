@@ -27,6 +27,6 @@ I am [Saurabh](https://in.linkedin.com/in/saurabh-dahibhate), a Computer Enginee
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">  
 
- - Connect with me on [LinkedIn](https://in.linkedin.com/in/saurabh-dahibhate-805b20147) 👨🏻‍💻
+ - Connect with me on [LinkedIn](https://in.linkedin.com/in/saurabh-dahibhate) 👨🏻‍💻
  - Shoot Me an [Email](mailto:saurabhdahibhate50@gmail.com) 💌
 </p>
