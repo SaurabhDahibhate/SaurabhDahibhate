@@ -1,17 +1,22 @@
-<img src="https://camo.githubusercontent.com/98c780ccc80ffe74cc94b3ca0f2e86d6b7fecc4e0cb88c3885dbb95f0d3087d7/68747470733a2f2f69626167726f757069742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30352f62616e6e65725f313330302d3335375f6465766f70732e706e67"> </img>
+
 <h1 align="center">Hi 👋, I'm Saurabh Dahibhate</h1>
-<h3 align="center">A passionate DevOps Cloud Engineer from India</h3>
+<h3 align="center">A Software Engineer and passionate Front End Developer | DevOps 🎯 from Pune, India.</h3>
 
+<p align='center'>
+  <a href="https://twitter.com/saurabh-dahibhate"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/saurabh-dahibhate/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:saurabhdahibhate50@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-I am [Saurabh](https://in.linkedin.com/in/saurabh-dahibhate), a Computer Engineer (B.E) from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;passionate about devOps. 🎯
+</p>
 
-- 🔭 I’m currently working on **DevOps Cloud Engineer**
+<hr>
 
-- 🌱 I’m currently learning **Python and Kubernetes**
+<h4>🔭  I’m currently working with ...</h4>
 
-- 💬 Ask me about **DevOps , Cloud**
-
-
+<h5>UI Developer</h5>
+<p >
+  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
