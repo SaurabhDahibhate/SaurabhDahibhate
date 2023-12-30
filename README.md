@@ -13,7 +13,7 @@
 
 <h4>🔭  I’m currently working with ...</h4>
 
-<h5>UI Developer</h5>
+<h5>Front-end Developer</h5>
 <p >
 <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JSON%20-%23e34f26.svg?&style=for-the-badge&logo=JSON&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux%20-%23e34f26.svg?&style=for-the-badge&logo=Redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Docker%20-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
 
 </p>
