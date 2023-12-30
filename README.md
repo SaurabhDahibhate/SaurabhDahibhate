@@ -1,4 +1,4 @@
-<img src="Webdev.jpeg">
+<img src="">
 <h1 align="center">Hi 👋, I'm Saurabh Dahibhate</h1>
 <h3 align="center">A passionate Front End Developer | DevOps 🎯 from Pune, India.</h3>
 
